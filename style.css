@@ -1,0 +1,39 @@
+.todays {
+ text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hide{
+  display:none;
+}
+.col-xs-3 {
+  float:none;
+  border: 2px solid #000;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.todays{
+  border: 2px solid #000;
+}
+
+.col-xs-2 {
+  border: 2px solid #000;
+  float: none;
+  display: inline-block;
+}
+
+.weather{
+  border: 2px solid #000;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.container{
+
+  text-align:center;
+}
